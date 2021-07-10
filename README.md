@@ -1,6 +1,6 @@
 # Taskinator
 * Manage all of your tasks simply with this task manager!
-* Ability to add, edit, and delete any task
+* Ability to add, edit, and delete any task.
 * Sort tasks that are completed or in progress!
 
 ## Built with
